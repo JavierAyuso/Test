@@ -4,7 +4,7 @@
 .toolbar-background-md,
 .toolbar-background-ios,
 .toolbar-background-wp {
-  background: #5009A1;
+  background: #a10914;
 }
 
 /* Bottom tabs selected color */
