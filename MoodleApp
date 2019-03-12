@@ -4,7 +4,7 @@
 .toolbar-background-md,
 .toolbar-background-ios,
 .toolbar-background-wp {
-  background: #a10914;
+  background: #28235b;
 }
 
 /* Bottom tabs selected color */
@@ -17,18 +17,18 @@
 .tabs-wp .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
 .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
-  color: #EBEFF8;
+  color: #ff0000;
 }
 
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
-  color: #506900 !important;
+  color: #f29200 !important;
   border-bottom-color: #5069A1 !important;
 }
 
 /* Loading spinner */
 .spinner circle, .spinner line {
-    stroke: #5069A1;
+    stroke: #28235b;
 }
 
 /* Buttons */
