@@ -17,13 +17,13 @@
 .tabs-wp .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
 .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
-  color: #ff0000;
+  color: #ffffff;
 }
 
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
-  color: #f29200 !important;
-  border-bottom-color: #5069A1 !important;
+  color: #ff0000 !important;
+  border-bottom-color: #00ff00 !important;
 }
 
 /* Loading spinner */
@@ -38,15 +38,15 @@
 .fab-ios,
 .fab-md,
 .fab-wp {
-  background-color: #5069A1;
+  background-color: #0000ff;
 }
 
 .button-outline-md,
 .button-outline-ios,
 .button-outline-wp {
-    border-color: #5069A1;
+    border-color: #00ffff;
     background-color: #ffffff;
-    color: #5069A1;
+    color: #00ffff;
 }
 
 .button-clear-md,
