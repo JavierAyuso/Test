@@ -22,7 +22,7 @@
 
 /* Tabs color*/
 .core-tabs-bar .slides a.tab-slide[aria-selected=true] {
-  color: #5069A1 !important;
+  color: #506900 !important;
   border-bottom-color: #5069A1 !important;
 }
 
