@@ -7,6 +7,12 @@
   background: #28235b;
 }
 
+.toolbar-title-md,
+.toolbar-title-ios,
+.toolbar-title-wp {
+  font-size:1.7rem;
+}
+
 /* Bottom tabs selected color */
 .tabs-md .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-md .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
