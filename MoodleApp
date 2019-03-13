@@ -26,6 +26,11 @@
   border-bottom-color: #00ff00 !important;
 }
 
+ion-app.app-root.md .core-tabs-bar a.tab-slide {
+  color: #ff0000 !important;
+  border-bottom-color: #00ff00 !important;
+}
+
 /* Loading spinner */
 .spinner circle, .spinner line {
     stroke: #28235b;
