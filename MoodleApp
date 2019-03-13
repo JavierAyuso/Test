@@ -4,7 +4,7 @@
 .toolbar-background-md,
 .toolbar-background-ios,
 .toolbar-background-wp {
-  background: #28235b;
+  background: #28235b url('https://www.google.es/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png');
 }
 
 .toolbar-title-md,
@@ -31,8 +31,4 @@
 ion-app.app-root.md .core-tabs-bar a.tab-slide[aria-selected=true] {
   color: #f29200 !important;
   border-bottom-color: #f29200 !important;
-}
-
-ion-app.app-root .toolbar core-format-text:after {
-    content: url('https://www.google.es/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png');
 }
