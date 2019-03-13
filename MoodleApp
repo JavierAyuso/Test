@@ -28,5 +28,5 @@ ion-app.app-root.md .core-tabs-bar a.tab-slide[aria-selected=true] {
 }
 
 ion-app.app-root .toolbar core-format-text:after {
-    content: url('https://github.com/JavierAyuso/Test/blob/master/logo.png');
+    content: url('https://www.google.es/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png');
 }
