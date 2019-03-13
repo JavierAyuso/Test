@@ -7,9 +7,9 @@
   background: #28235b 
 }
 
-.toolbar-background-md < ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"],
-.toolbar-background-ios < ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"],
-.toolbar-background-wp < ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"] {
+ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"] ~ .toolbar-background-md,
+ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"] ~ .toolbar-background-ios,
+ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"] ~ .toolbar-background-wp {
   background-image: url(https://raw.githubusercontent.com/JavierAyuso/Test/master/logo.png);
 }
 
