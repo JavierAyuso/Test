@@ -7,13 +7,6 @@
   background: #28235b 
 }
 
-ion-app.app-root .toolbar core-format-textion-app.app-root .toolbar core-format-text {
-  width: 2350px; 
-  height: 75px;
-  background: url("https://png2.kisspng.com/sh/fbdfc077318623dfa3e15fa8a3fcbdcd/L0KzQYm3V8A0N5RoiZH0aYP2gLBuTgdpaaV4eeJ5LXzyd7E0hP94dp10edY2NXK2c4G3VvU4QGcAUaQ3OUi0R4q3UsUyPWQ1TqcDOUK5RIq6Ur5xdpg=/kisspng-whatsapp-logo-download-5b3c006e786992.9817902515306589264932.png") top right;
-  margin: 0 0 0 -2000px;
-}
-
 .toolbar-title-md,
 .toolbar-title-ios,
 .toolbar-title-wp {
