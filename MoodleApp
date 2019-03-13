@@ -7,9 +7,9 @@
   background: #28235b 
 }
 
-.toolbar-title-md core-format-text[ng-reflect-text="CocemfeCyL Moodle"],
-.toolbar-title-ios core-format-text[ng-reflect-text="CocemfeCyL Moodle"],
-.toolbar-title-wp core-format-text[ng-reflect-text="CocemfeCyL Moodle"] {
+.toolbar-title-md core-format-text,
+.toolbar-title-ios core-format-text,
+.toolbar-title-wp core-format-text {
     color: transparent;
     background: url(https://raw.githubusercontent.com/JavierAyuso/Test/master/logoHsmall.png);
     background-repeat: no-repeat;
