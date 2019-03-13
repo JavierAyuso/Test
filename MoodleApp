@@ -21,103 +21,12 @@
 }
 
 /* Tabs color*/
-.core-tabs-bar .slides a.tab-slide[aria-selected=true] {
-  color: #ff0000 !important;
-  border-bottom-color: #00ff00 !important;
-}
-
 ion-app.app-root.md .core-tabs-bar a.tab-slide {
-  color: #ff0000 !important;
-  border-bottom-color: #00ff00 !important;
+  color: #f29200 !important;
+  border-bottom-color: #f29200 !important;
 }
 
 /* Loading spinner */
 .spinner circle, .spinner line {
     stroke: #28235b;
-}
-
-/* Buttons */
-.button-md,
-.button-ios,
-.button-wp,
-.fab-ios,
-.fab-md,
-.fab-wp {
-  background-color: #0000ff;
-}
-
-.button-outline-md,
-.button-outline-ios,
-.button-outline-wp {
-    border-color: #00ffff !importan;
-    background-color: #ffffff !importan;
-    color: #00ffff !importan;
-}
-
-.button-clear-md,
-.button-clear-ios,
-.button-clear-wp {
-  background-color: transparent;
-  color: #28235b;
-}
-
-/* More icon colors */
-page-core-mainmenu-more .ion-md-notifications,
-page-core-mainmenu-more .ion-ios-notifications,
-page-core-mainmenu-more .ion-md-notifications {
-  color: yellow;
-}
-
-page-core-mainmenu-more .ion-md-stats,
-page-core-mainmenu-more .ion-ios-stats,
-page-core-mainmenu-more .ion-md-stats {
-  color: yellow;
-}
-
-page-core-mainmenu-more .ion-md-map,
-page-core-mainmenu-more .ion-ios-map,
-page-core-mainmenu-more .ion-wp-map {
-  color: green;
-}
-
-page-core-mainmenu-more .ion-md-folder,
-page-core-mainmenu-more .ion-ios-folder,
-page-core-mainmenu-more .ion-wp-folder {
-  color: purple;
-}
-
-page-core-mainmenu-more .ion-md-link,
-page-core-mainmenu-more .ion-ios-link,
-page-core-mainmenu-more .ion-wp-link {
-  color: maroon;
-}
-
-page-core-mainmenu-more .ion-md-globe,
-page-core-mainmenu-more .ion-ios-globe,
-page-core-mainmenu-more .ion-wp-globe {
-  color: maroon;
-}
-
-page-core-mainmenu-more .ion-md-qr-scanner,
-page-core-mainmenu-more .ion-ios-qr-scanner,
-page-core-mainmenu-more .ion-wp-qr-scanner {
-  color: orange;
-}
-
-page-core-mainmenu-more .ion-md-help-buoy,
-page-core-mainmenu-more .ion-ios-help-buoy,
-page-core-mainmenu-more .ion-wp-help-buoy {
-  color: orange;
-}
-
-page-core-mainmenu-more .ion-md-cog,
-page-core-mainmenu-more .ion-ios-cog,
-page-core-mainmenu-more .ion-wp-cog {
-  color: dimgray;
-}
-
-page-core-mainmenu-more .ion-md-log-out,
-page-core-mainmenu-more .ion-ios-log-out,
-page-core-mainmenu-more .ion-wp-log-out {
-  color: red;
 }
