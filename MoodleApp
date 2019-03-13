@@ -5,6 +5,10 @@
 .toolbar-background-ios,
 .toolbar-background-wp {
   background: #28235b url('https://www.google.es/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png');
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: 100px;
+  background-position-y: 10px;
 }
 
 .toolbar-title-md,
