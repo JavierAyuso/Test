@@ -21,7 +21,7 @@
 }
 
 /* Tabs color*/
-ion-app.app-root.md .core-tabs-bar a.tab-slide {
+ion-app.app-root.md .core-tabs-bar a.tab-slide[aria-selected=true] {
   color: #f29200 !important;
   border-bottom-color: #f29200 !important;
 }
