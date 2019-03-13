@@ -44,16 +44,16 @@
 .button-outline-md,
 .button-outline-ios,
 .button-outline-wp {
-    border-color: #00ffff;
-    background-color: #ffffff;
-    color: #00ffff;
+    border-color: #00ffff !importan;
+    background-color: #ffffff !importan;
+    color: #00ffff !importan;
 }
 
 .button-clear-md,
 .button-clear-ios,
 .button-clear-wp {
   background-color: transparent;
-  color: #5069A1;
+  color: #28235b;
 }
 
 /* More icon colors */
