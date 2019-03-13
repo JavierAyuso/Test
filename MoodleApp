@@ -18,15 +18,11 @@
 .tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
 .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
   color: #ffffff;
+  font-size: 3rem;
 }
 
 /* Tabs color*/
 ion-app.app-root.md .core-tabs-bar a.tab-slide[aria-selected=true] {
   color: #f29200 !important;
   border-bottom-color: #f29200 !important;
-}
-
-/* Loading spinner */
-.spinner circle, .spinner line {
-    stroke: #28235b;
 }
