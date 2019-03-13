@@ -7,10 +7,13 @@
   background: #28235b 
 }
 
-ion-app.app-root .toolbar core-format-text {
-    background-image: url(https://raw.githubusercontent.com/JavierAyuso/Test/master/logo.png);
-    background-size: contain;
-    background-repeat: no-repeat;
+.toolbar-background-md < ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"],
+.toolbar-background-ios < ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"],
+.toolbar-background-wp < ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"] {
+  background-image: url(https://raw.githubusercontent.com/JavierAyuso/Test/master/logo.png);
+}
+
+ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"] {
     color: transparent;
 }
 
