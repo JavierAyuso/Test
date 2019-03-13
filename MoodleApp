@@ -13,7 +13,7 @@ ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"] 
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    line-height: 30px;
+    margin-left: 10px;
 }
 
 .toolbar-title-md,
