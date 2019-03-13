@@ -9,7 +9,7 @@
 
 ion-app.app-root .toolbar core-format-text[ng-reflect-text="CocemfeCyL Moodle"] {
     color: transparent;
-    background: url(https://raw.githubusercontent.com/JavierAyuso/Test/master/logo.png);
+    background: url(https://raw.githubusercontent.com/JavierAyuso/Test/master/logoHsmall.png);
     background-repeat: no-repeat;
     background-size: contain;
     margin-left: 10px;
