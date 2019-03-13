@@ -7,6 +7,13 @@
   background: #28235b 
 }
 
+ion-app.app-root .toolbar core-format-text {
+    background-image: url(https://raw.githubusercontent.com/JavierAyuso/Test/master/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: transparent;
+}
+
 .toolbar-title-md,
 .toolbar-title-ios,
 .toolbar-title-wp {
