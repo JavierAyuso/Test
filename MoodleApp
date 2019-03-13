@@ -20,7 +20,7 @@
 .toolbar-title-md,
 .toolbar-title-ios,
 .toolbar-title-wp {
-  font-size:1.7rem;
+  font-size:1.5rem;
 }
 
 /* Bottom tabs selected color */
